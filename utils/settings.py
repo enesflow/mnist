@@ -8,8 +8,8 @@ RED = (255, 0, 0)
 BLUE = (0, 255, 0)
 GREEN = (0, 0, 255)
 
-FPS = MIN_FPS = 60
-MAX_FPS = 1000
+FPS = MIN_FPS = 24
+MAX_FPS = 480
 
 ROWS = COLS = 28*3
 
